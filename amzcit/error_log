@@ -1,0 +1,13 @@
+[15-Oct-2015 22:19:39 America/New_York] PHP Parse error:  syntax error, unexpected '$mensaje' (T_VARIABLE) in /home/amazoncity/public_html/propuesta/email.php on line 16
+[17-Oct-2015 13:04:10 America/New_York] PHP Warning:  include_once(/assets/heder.php): failed to open stream: No such file or directory in /home/amazoncity/public_html/propuesta/index.php on line 4
+[17-Oct-2015 13:04:10 America/New_York] PHP Warning:  include_once(): Failed opening '/assets/heder.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amazoncity/public_html/propuesta/index.php on line 4
+[17-Oct-2015 13:05:17 America/New_York] PHP Warning:  include_once(/assets/header.php): failed to open stream: No such file or directory in /home/amazoncity/public_html/propuesta/index.php on line 4
+[17-Oct-2015 13:05:17 America/New_York] PHP Warning:  include_once(): Failed opening '/assets/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amazoncity/public_html/propuesta/index.php on line 4
+[17-Oct-2015 13:05:17 America/New_York] PHP Warning:  include_once(/assets/footer.php): failed to open stream: No such file or directory in /home/amazoncity/public_html/propuesta/index.php on line 271
+[17-Oct-2015 13:05:17 America/New_York] PHP Warning:  include_once(): Failed opening '/assets/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amazoncity/public_html/propuesta/index.php on line 271
+[17-Oct-2015 13:05:34 America/New_York] PHP Warning:  include_once(/assets/footer.php): failed to open stream: No such file or directory in /home/amazoncity/public_html/propuesta/index.php on line 271
+[17-Oct-2015 13:05:34 America/New_York] PHP Warning:  include_once(): Failed opening '/assets/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amazoncity/public_html/propuesta/index.php on line 271
+[19-Oct-2015 20:12:12 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/amazoncity/public_html/propuesta/assets/header.php on line 64
+[19-Oct-2015 20:13:08 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/amazoncity/public_html/propuesta/assets/header.php on line 64
+[27-Oct-2015 12:48:28 America/New_York] PHP Warning:  include_once(../assets/header.php): failed to open stream: No such file or directory in /home/amazoncity/public_html/propuesta/ubicacion.php on line 5
+[27-Oct-2015 12:48:28 America/New_York] PHP Warning:  include_once(): Failed opening '../assets/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/amazoncity/public_html/propuesta/ubicacion.php on line 5
